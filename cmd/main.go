@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/flipped-aurora/ws/core/biz"
-	"github.com/flipped-aurora/ws/core/data"
+	"github.com/egolboy/ws/core/biz"
+	"github.com/egolboy/ws/core/data"
 
 	"github.com/gin-gonic/gin"
 	"go.uber.org/zap"
